@@ -11,3 +11,5 @@
 3、Discover页面
 
 4、Setting页面
+
+5、add
